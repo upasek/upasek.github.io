@@ -1,7 +1,7 @@
 ---
 title: "My First Blogging Post"
 date: 2025-08-03 10:00:00 +0530
-categories: [blogging]
+categories: [blogging,demo]
 tags: [writing, personal]
 ---
 
