@@ -10,5 +10,5 @@ mermaid: true
 image:
   path: /assets/img/rabbitmq-logo.png
   lqip: /assets/img/rabbitmq-blur.png
-  alt: "RabbitMQ with Java integration"
+  alt: "RabbitMQ with Java integration "
 ---
